@@ -1,4 +1,4 @@
 # AntiLiquidFlow
-A Simple PocketMine-MP Plugin that prevents player to LavaCast or WaterCast
+A Simple PocketMine-MP Plugin that prevents liquid to spread
 
 <img src="antiliquid.png">
