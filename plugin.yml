@@ -1,0 +1,6 @@
+name: AntiLiquidFlow
+main: lentou\AntiLiquidFlow\Main
+version: 1.0.0
+api: 3.0.0
+author: Lentou
+description: "Simple Anti Liquid Cast/Flow of PocketMine-MP"
