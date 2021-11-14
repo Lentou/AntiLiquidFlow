@@ -1,5 +1,4 @@
 # AntiLiquidFlow
-<img src="icon.png">
 A Simple PocketMine-MP Plugin that prevents liquid to spread
 
 <br>
