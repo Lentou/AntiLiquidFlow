@@ -5,4 +5,5 @@ branches:
 projects:
   AntiLiquidFlow:
     path: ""
+    icon: "icon.png"
 ...
