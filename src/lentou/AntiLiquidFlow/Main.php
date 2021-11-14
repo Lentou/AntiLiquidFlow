@@ -24,7 +24,13 @@ class Main extends PluginBase implements Listener {
 			return;
 		}
 		if ($event->getSource() instanceof Liquid) {
-			$event->setCancelled();
+			if ($event->getSource()->getY() >= 0 && $event->getSource()->getY() <= 50){
+				if ($event->getSource()->getDamage() >= 3){
+					$event->setCancelled();
+				}
+			} else {
+				$event->setCancelled();
+			}
 		}
 	}
 	
